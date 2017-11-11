@@ -1,0 +1,197 @@
+.hfont {
+    font-family: "Verdana";
+    color: black;
+    font-size: 15pt;
+}
+
+.hfont1 {
+    font-family: "Verdana";
+    font-size: 12pt;
+}
+
+.hfont3 {
+    font-family: "Verdana";
+    color: black;
+    font-size: 11pt;
+}
+
+.col-5 {
+    height: 40vw;
+    background-size: cover;
+    background-position: center;
+}
+
+.social-label {
+    color: black;
+}
+
+.card-header-pic .card-header {
+    height: 65vw;
+    background-size: cover;
+    background-position: center;
+}
+
+.card-top {
+    top: 5px;
+}
+
+.button {
+    margin-bottom: 8px;
+}
+
+.pad-1 {
+    background-color: #E3E4FA;
+    margin: auto;
+    width: 88%;
+    margin-top: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: #026895;
+}
+
+.pad-1_1 {
+    background-color: #E3E4FA;
+    margin: auto;
+    width: 100%;
+    margin-top: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: #026895;
+}
+
+.pad-2 {
+    width: 95%;
+    padding: 10px;
+    border: 5px solid cyn;
+    margin: 0;
+}
+
+.pad-3 {
+    background-color: #FEFCFF;
+    margin: auto;
+    width: 68%;
+    padding: 10px;
+    padding-bottom: 10px;
+    color: #026895;
+    font-family: "Times New Roman", Times, serif;
+}
+
+.pad-4 {
+    margin: auto;
+    width: 58%;
+    padding: 10px;
+    padding-top: 10px;
+    padding-bottom: 0px;
+}
+
+.pad-5 {
+    margin: auto;
+    width: 40%;
+}
+
+.pad-6 {
+    margin: auto;
+    padding-left: 30%;
+    padding-right: 5px;
+}
+
+.pad-7 {
+    margin: auto;
+    padding-right: 20%;
+}
+
+.pad-8 {
+    margin: auto;
+    padding-right: 200%;
+}
+
+.achievement-pad-01 {
+    padding-left: 10%;
+}
+
+.achievement-pad-1 {
+    width: 55%;
+}
+
+.achievement-pad-1_1 {
+    background-color: #E3E4FA;
+    width: 55%;
+    margin-top: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: #026895;
+}
+
+.achievement-pad-11 {
+    background-color: #E3E4FA;
+    width: 97%;
+    margin-top: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: #026895;
+}
+
+.achievement-pad-1_2 {
+    background-color: #E3E4FA;
+    width: 97.5%;
+    margin-top: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: #026895;
+}
+
+.achievement-pad-2 {
+    width: 55%;
+}
+
+.achievement-pad-2_1 {
+    padding-left: 34.5%;
+    padding-right: 10%;
+}
+
+.achievement-img {
+    width=60%;
+}
+
+.error-pad {
+    background-color: #FFF5F5;
+    margin: auto;
+    width: 55%;
+    margin-top: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: #FF043D;
+}
+
+.error-pad-1 {
+    background-color: #FFF5F5;
+    margin: auto width: 98.5%;
+    margin-top: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: #FF043D;
+}
+
+.contact-facebook {
+    background-color: #F1F5FF;
+    color: #047AFF;
+}
+
+.contact-github {
+    background-color: #F7F7F7;
+}
+
+.contact-insta {
+    background-color: #FFF5F5;
+    color: #EE4C4C;
+}
+
+
+/*.background-img {
+  background-image: url("https://scontent-atl3-1.cdninstagram.com/t51.2885-15/e35/14294908_1814471678788262_2047129521_n.jpg?ig_cache_key=MTMzODQ5MzQxOTg3NzY5MDg5NA%3D%3D.2");
+    -webkit-filter: blur(5px);
+    -moz-filter: blur(5px);
+    -o-filter: blur(5px);
+    -ms-filter: blur(5px);
+    filter: blur(5px);
+}*/
